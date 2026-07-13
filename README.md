@@ -23,13 +23,7 @@ This project is currently in **Alpha**. Expect bugs, desync issues, and occasion
 5. Launch the game via Steam.
 
 ## How to Use
-1. **Open Menu:** Press **F4** on your keyboard once the game is loaded [cite: 1].
-2. **Hosting:**
-   - Click **Host PUBLIC** to be visible in the lobby browser [cite: 1, 5].
-   - Click **Host PRIVATE** and share the 6-digit code with a friend [cite: 1, 2].
-3. **Joining:**
-   - Click **Browse PUBLIC Lobbies** to see active hosts [cite: 1, 5].
-   - Enter a code in the text field and click **Join** for private matches [cite: 1, 2].
+Press Mutliplayer on the Home Menu. Easy as that!
 
 ## Contributing
 Contributions are welcome! Please check the [Issues](#) page for current bugs and planned features. 
