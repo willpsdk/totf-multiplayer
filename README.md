@@ -9,7 +9,7 @@ An experimental mutliplayer for ToTF. Some if not all features will have issues.
 ---
 
 ## ⚠️ Development has Halted
-This project is currently an experiment that I made for fun with some friends. Expect bugs, desync issues, and occasional crashes. I'm are actively working on improving the physics synchronization and hit registration. But as there is no real modding platform to work with. Feel free to fork and improve things if you want. 
+This project is currently an experiment that I made for fun with some friends. Expect bugs, desync issues, and occasional crashes. Feel free to fork and improve things if you want. 
 ---
 
 ## Installation
