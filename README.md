@@ -4,13 +4,12 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0--alpha-blue)
 ![Platform](https://img.shields.io/badge/Platform-SteamVR-lightgrey)
 
-An experimental mutliplayer that is still in development. Some if not all features will have issues.
+An experimental mutliplayer for ToTF. Some if not all features will have issues.
 
 ---
 
-## ⚠️ Work In Progress
-This project is currently in **Alpha**. Expect bugs, desync issues, and occasional crashes. I'm are actively working on improving the physics synchronization and hit registration. But as there is no real modding platform to work with please be patient :)
-
+## ⚠️ Development has Halted
+This project is currently an experiment that I made for fun with some friends. Expect bugs, desync issues, and occasional crashes. I'm are actively working on improving the physics synchronization and hit registration. But as there is no real modding platform to work with. Feel free to fork and improve things if you want. 
 ---
 
 ## Installation
